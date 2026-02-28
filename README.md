@@ -6,18 +6,23 @@
 
 
 A comprehensive Power BI dashboard designed to analyze ticket volume, SLA compliance, resolution efficiency, and agent performance across multiple countries and support channels.
-📝 Overview
+
+**📝 Overview**
+
 This project provides a data‑driven visualization of support ticket operations. The dashboard helps stakeholders monitor performance trends, understand workload distribution, and track SLA adherence across various queues, categories, and countries.
 The dashboard is divided into three main analytical sections:
 
 **📍 1. Ticket Priority Analysis**
+
 This section provides a high‑level view of overall ticket trends.
-Key Insights
+
+Key Insights :
 
 Total Tickets: 20K
 SLA Compliance: 72.28%
 Avg Resolution Days: 2.34
 Avg Tickets Per Day: 54.79
+
 Trend visuals for:
 
 Tickets by Channel
@@ -31,11 +36,11 @@ Avg Tickets by Primary Tag (Incident / Problem / Request)
 Avg Tickets by Channel (Chat / Email / Phone / Portal)
 
 
-
-
 **📍 2. Ticket Priority Breakdown**
+
 This section focuses on performance based on ticket severity.
-Priority Metrics
+
+Priority Metrics :
 
 High Priority Tickets: 3K
 Medium Priority Tickets: 7K
@@ -55,9 +60,10 @@ Bar chart showing average tickets per day by queue (e.g., Technical Support, IT 
 
 
 **📍 3. Agent & Country Analysis**
-This section highlights individual agent efficiency and geographical ticket distribution.
-Agent Performance
 
+This section highlights individual agent efficiency and geographical ticket distribution.
+
+Agent Performance
 Top agents ranked by:
 
 Avg Tickets
@@ -96,6 +102,7 @@ Excel / CSV Data Sources (optional)
 
 
 **🎯 Purpose of the Dashboard**
+
 This solution helps organizations:
 
 Improve operational decision‑making
